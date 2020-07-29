@@ -1,0 +1,8 @@
+main,ƒƒCƒ“ŠÖ”
+func1,func1ŠÖ”
+func2,func2ŠÖ”
+func3,func3ŠÖ”
+func4,func4ŠÖ”
+func5,func5ŠÖ”
+func6,func6ŠÖ”
+func7,func7ŠÖ”
